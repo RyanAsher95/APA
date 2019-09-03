@@ -1,0 +1,29 @@
+.settings/
+classes/
+target/
+logs/
+.classpath
+*.swp
+.project
+hs_err_pid*
+*.war
+*.iml
+.idea/
+.gradle/
+build/
+gradle/
+out/
+# gradle ignore
+.gradle/
+out/
+build/
+# system ignore
+.DS_Store
+Thumbs.db
+hs_err_pid*
+# idea ignore
+.idea/
+*.ipr
+*.iml
+*.iws
+git squash
